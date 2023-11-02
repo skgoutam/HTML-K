@@ -174,19 +174,19 @@ color: #333;
 }
 .about .box .project
 {
-    min-width: 20px;
+    min-width: 30px;
 }
 .about .box .project h5
 {
     text-transform: uppercase;
     color: #848c98;
-    font-weight: 600;
+    font-weight: 700;
 }
 .about .box .text h4
 {
     text-transform: uppercase;
     color: #2a7da2;
-    font-size: 16px;
+    font-size: 15px;
 }
 .skills .box
 {
